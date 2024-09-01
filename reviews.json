@@ -1,0 +1,124 @@
+    {
+        "reviews": [
+        {
+            "professor": "Professor Smith",
+            "subject": "Computer Science",
+            "stars": 5,
+            "review": "Professor Smith is very knowledgeable and engaging. Her lectures are well-organized and she provides excellent feedback on assignments."
+        },
+        {
+            "professor": "Dr. Johnson",
+            "subject": "Mathematics",
+            "stars": 4,
+            "review": "Dr. Johnson's classes are informative but can be quite challenging. He encourages students to think critically and apply concepts in real-world scenarios."
+        },
+        {
+            "professor": "Professor Lee",
+            "subject": "Physics",
+            "stars": 5,
+            "review": "Professor Lee is approachable and always willing to help students outside of class. His enthusiasm for the subject makes learning enjoyable."
+        },
+        {
+            "professor": "Dr. Brown",
+            "subject": "History",
+            "stars": 3,
+            "review": "Dr. Brown is a great lecturer but sometimes the pace of the course is too fast. Additional resources or review sessions would be beneficial."
+        },
+        {
+            "professor": "Professor Davis",
+            "subject": "Biology",
+            "stars": 4,
+            "review": "Professor Davis has a clear teaching style and is very supportive. However, the grading can be strict and the workload is heavy."
+        },
+        {
+            "professor": "Dr. Wilson",
+            "subject": "Chemistry",
+            "stars": 5,
+            "review": "Dr. Wilson is a very experienced professor who provides real-world examples. His classes are interactive and he fosters a collaborative learning environment."
+        },
+        {
+            "professor": "Professor Clark",
+            "subject": "Economics",
+            "stars": 3,
+            "review": "Professor Clark is knowledgeable but can be a bit disorganized. It sometimes takes extra effort to keep up with the course material."
+        },
+        {
+            "professor": "Dr. Martinez",
+            "subject": "English",
+            "stars": 5,
+            "review": "Dr. Martinez is excellent at making complex topics understandable. She uses a variety of teaching methods to accommodate different learning styles."
+        },
+        {
+            "professor": "Professor Rodriguez",
+            "subject": "Philosophy",
+            "stars": 4,
+            "review": "Professor Rodriguez is enthusiastic and engaging, but the course material can be dense and challenging. Extra study sessions might be needed."
+        },
+        {
+            "professor": "Dr. Taylor",
+            "subject": "Political Science",
+            "stars": 5,
+            "review": "Dr. Taylor is very approachable and provides detailed feedback. Her classes are well-structured and she emphasizes critical thinking."
+        },
+        {
+            "professor": "Professor Lee",
+            "subject": "Sociology",
+            "stars": 4,
+            "review": "Professor Lee is very passionate about the subject, but sometimes her lectures can be too fast-paced. More time for questions would be helpful."
+        },
+        {
+            "professor": "Dr. Anderson",
+            "subject": "Statistics",
+            "stars": 5,
+            "review": "Dr. Anderson is a knowledgeable and fair professor. Her assignments are challenging but help in understanding the subject deeply."
+        },
+        {
+            "professor": "Professor Scott",
+            "subject": "Art History",
+            "stars": 4,
+            "review": "Professor Scott has a great sense of humor and makes learning fun. The course material is engaging, though some topics could use more depth."
+        },
+        {
+            "professor": "Dr. Harris",
+            "subject": "Engineering",
+            "stars": 3,
+            "review": "Dr. Harris is an expert in her field and provides valuable insights. Her grading can be strict, and the workload is quite intense."
+        },
+        {
+            "professor": "Professor King",
+            "subject": "Psychology",
+            "stars": 4,
+            "review": "Professor King is very methodical in his teaching approach. His lectures are clear, but additional practice problems would be useful."
+        },
+        {
+            "professor": "Dr. Young",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Dr. Young is passionate and supportive. The course is well-organized, though some students may find the pace a bit quick."
+        },
+        {
+            "professor": "Professor Wright",
+            "subject": "Astronomy",
+            "stars": 5,
+            "review": "Professor Wright is thorough and approachable. He ensures that all students understand the material before moving on to new topics."
+        },
+        {
+            "professor": "Dr. Green",
+            "subject": "Geology",
+            "stars": 5,
+            "review": "Dr. Green is an excellent professor who is very engaged with his students. His feedback is constructive, and his classes are well-paced."
+        },
+        {
+            "professor": "Professor Adams",
+            "subject": "Literature",
+            "stars": 4,
+            "review": "Professor Adams has a clear teaching style and is very responsive to student questions. The material is challenging but rewarding."
+        },
+        {
+            "professor": "Dr. Baker",
+            "subject": "Music",
+            "stars": 4,
+            "review": "Dr. Baker is knowledgeable and makes complex subjects easier to understand. Her classes are interactive, though the workload is substantial."
+        }
+        ]
+    }
